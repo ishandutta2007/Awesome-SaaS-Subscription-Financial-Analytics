@@ -64,9 +64,9 @@ Commercial cloud-hosted SaaS and subscription financial analytics platforms for 
 
 ## 🟩 Open-Source Software & Metric Engines 💻
 
-Self-hosted, transparent, and community-driven analytics engines, usage metering platforms, and metric calculation frameworks for subscription businesses. *Sorted by GitHub star count in descending order.*
+Self-hosted, transparent, and community-driven analytics engines, usage metering platforms, and metric calculation frameworks for subscription businesses. *Sorted by GitHub Stars_Count in descending order.*
 
-| Tool | Stars | Stack | License | Description & Key Capabilities |
+| Tool | GitHub_Stars | Stack | License | Description & Key Capabilities |
 |:---|:---:|:---|:---|:---|
 | **[Lago](https://github.com/getlago/lago)** 🦩 | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby / Go / TypeScript | AGPL-3.0 | Open-source metering, usage-based billing, and revenue analytics engine designed as an alternative to Stripe Billing and Chargebee. |
 | **[Kill Bill](https://github.com/killbill/killbill)** 🥷 | [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Java / MySQL / PostgreSQL | Apache-2.0 | Battle-tested, enterprise open-source subscription billing, payment management, and financial analytics platform. |
